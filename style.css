@@ -37,7 +37,7 @@ body{
 }
 
 #activities{
-    background-color: #DCCFC7;
+    background:linear-gradient(#DCCFC7,#4D5061);
     display: flex;
     justify-content: space-around;
     margin: 0;
